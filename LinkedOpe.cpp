@@ -53,11 +53,11 @@ int main(){
     insertatbegin(35);
     insertatbegin(55);
     insertatbegin(70);
-    insertatbegin(3);
+    insertatbegin(88);
     
     printlist();
 
-    deleteatspecific(3);
+    deleteatspecific(88);
 
     printlist();
 }
